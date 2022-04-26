@@ -7,4 +7,5 @@ K-Means clustering algorithm is an unsupervised algorithm and it is used to segm
 2. Numpy
 ```
 ## How to run:
-1. Run `k-means.py` file to process `Input.jpg`. The resulting image is saved as `Result.jpg`.
+1. Fist save the image you want to segment as `Input.jpg`.
+2. Run `k-means.py` file to process `Input.jpg`. The resulting image is saved as `Result.jpg`.
