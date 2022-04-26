@@ -5,6 +5,7 @@ K-Means clustering algorithm is an unsupervised algorithm and it is used to segm
 ```
 1. OpenCV
 2. Numpy
+3. Matplotlib
 ```
 ## How to run:
 1. Fist save the image you want to segment as `Input.jpg`.
